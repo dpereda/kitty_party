@@ -1,3 +1,6 @@
+Update 9/10/2014 :
+    This Project is on still hold for now, but will be rebooted shortly as work through some ruby tuts.
+
 Welcome to Kitty Party.
 This is a self made coding challenge
 
@@ -7,4 +10,4 @@ This came about as I was trying to think of how i could challenge myself with a 
 
 This is a learning process for me. so use it at your own risk.
 
-As of 4/25/2013  this is on hold as a work / challenge myself on a more difficult Rails app.  That app is a private app for right now, so i can't share with you what it is.
+As of 4/25/2013  this is on hold as a work / challenge myself on a more difficult Rails app.  
